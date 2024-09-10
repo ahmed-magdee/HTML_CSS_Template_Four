@@ -2,7 +2,7 @@
 
 ## This Template About Html, Css, Javascript
 
-## What am i ?
+## Who am i ?
 
 I'm Ahmed Magdy, I'm Front-End Developer.
 
